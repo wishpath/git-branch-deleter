@@ -32,7 +32,7 @@ public class ReaderUtil {
     while (true) {
       try { if (!((line = reader.readLine()) != null)) break;}
       catch (IOException e) {throw new RuntimeException(e);}
-      System.out.println(line); // Output of the git branch -D command
+      System.out.println(line);
     }
   }
 }

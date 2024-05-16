@@ -18,6 +18,6 @@ public class SingleGitBranchDeleter {
   }
 
   private void printDeletionConsoleOutput(BufferedReader reader) {
-    ReaderUtil.printReader(reader);
+    ReaderUtil.printReader(reader); // Output of the git branch -D command
   }
 }
