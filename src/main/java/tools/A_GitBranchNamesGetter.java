@@ -1,6 +1,6 @@
 package tools;
 
-import util.CmdUtil;
+import org.sa.util.CmdUtil;
 
 import java.io.BufferedReader;
 import java.util.ArrayList;
