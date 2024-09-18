@@ -1,4 +1,4 @@
-package tools;
+package org.sa.git.tools;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

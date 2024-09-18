@@ -1,7 +1,9 @@
+package org.sa.git;
+
 import org.sa.util.CmdUtil;
-import tools.A_GitBranchNamesGetter;
-import tools.B_DateCalculator;
-import tools.C_BranchDeleteDecider;
+import org.sa.git.tools.A_GitBranchNamesGetter;
+import org.sa.git.tools.B_DateCalculator;
+import org.sa.git.tools.C_BranchDeleteDecider;
 
 import java.util.List;
 

@@ -5,4 +5,4 @@ util\ReaderUtil.class
 b\loop\SingleGitBranchDeleter.class
 util\DeleteUtil.class
 GitBranchDeleter.class
-b\loop\MultipleGitBranchDeleter.class
+b\loop\org.sa.git.MultipleGitBranchDeleter.class

@@ -1,4 +1,4 @@
-package tools;
+package org.sa.git.tools;
 
 import org.sa.util.CmdUtil;
 

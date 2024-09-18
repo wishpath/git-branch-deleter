@@ -3,6 +3,6 @@ C:\rep\git-branch-deleter\src\main\java\d\validate\DateValidator.java
 C:\rep\git-branch-deleter\src\main\java\util\DeleteUtil.java
 C:\rep\git-branch-deleter\src\main\java\a\get\GitBranchNamesGetter.java
 C:\rep\git-branch-deleter\src\main\java\b\loop\SingleGitBranchDeleter.java
-C:\rep\git-branch-deleter\src\main\java\b\loop\MultipleGitBranchDeleter.java
+C:\rep\git-branch-deleter\src\main\java\b\loop\org.sa.git.MultipleGitBranchDeleter.java
 C:\rep\git-branch-deleter\src\main\java\GitBranchDeleter.java
 C:\rep\git-branch-deleter\src\main\java\e\decide\BranchDeleteDecider.java
